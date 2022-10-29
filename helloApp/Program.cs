@@ -6,5 +6,10 @@
         {
             Console.WriteLine("hello");
         }
+
+        private static void WhiteGreet()
+        {
+            Console.WriteLine("hello white");
+        }
     }
 }
