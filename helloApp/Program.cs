@@ -11,5 +11,10 @@
         {
             Console.WriteLine("hello white");
         }
+
+        private static void BlackGreet()
+        {
+            Console.WriteLine("hello black");
+        }
     }
 }
